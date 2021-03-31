@@ -1,25 +1,7 @@
 from,to,weight
 Harry,Lily,3
-Lily,Harry,3
-Lily,James,3
-James,Lily,3
-James ,Harry,3
 Harry,James,3
-Sirius,Harry,2
-Sirius,Lily,2
-Sirius,James,2
-James,Sirius,2
-Lily,Sirius,2
 Harry,Sirius,2
 Harry,Rubeus,2
-Rubeus,Harry,2
-Rubeus,Ron,2
-Rubeus,Hermine,2
 Harry,Hermine,3
 Harry,Ron,3
-Ron,Harry,3
-Ron ,Hermine,3
-Ron,Rubeus,3
-Hermine,Harry,3
-Hermine,Ron,3
-Hermine,Rubeus,3
