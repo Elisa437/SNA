@@ -1,0 +1,77 @@
+id,name,sex,type,birth,age,country,position
+JL,Juliët Lohuis,1,0,1996,3,1,1
+MT,Mira Todorova,1,0,1994,2,2,1
+ET,Eline Timmerman,1,0,1998,4,1,1
+HK,Hannah Kohn,1,0,2003,5,3,1
+IV,Ilka Van de Vyver,1,0,1993,2,4,2
+JN,Julia Nowicka,1,0,1998,4,5,2
+SL,Simone Lee,1,0,1996,3,6,3
+MP,Maria Segura Pallerés,1,0,1992,2,7,3
+HJ,Hester Jasper,1,0,2001,5,1,3
+HD,Helena Dornheim,1,0,2004,5,3,3
+KR,Krystal Rivers,1,0,1994,2,6,4
+LB,Lara Berger,1,0,2001,5,3,4
+RK,Roosa Koskelo,1,0,1991,2,8,5
+LG,Lena Grundt,1,0,2004,5,3,5
+Setup,Set-up '65,,1,,,,
+Eurosped,Eurosped Almelo,,1,,,,
+Coolen,Coolen Alterno,,1,,,,
+USC,USC Münster,,1,,,,
+RC,RC Cannes,,1,,,,
+Volero,Volero Le Cannet,,1,,,,
+Voleroz,Volero Zürich,,1,,,,
+Le,Le Cannet Volley Ball,,1,,,,
+Smaesch,Sm'Aesch Pfeffingen,,1,,,,
+Vc,VC Maritza,,1,,,,
+Tp,Talentteam Papendal,,1,,,,
+Alterno,Alterno Apeldoorn,,1,,,,
+Eurospeedt,Eurosped Twente,,1,,,,
+Ladies,Ladies in Black Aachen,,1,,,,
+Vfbu,VfB Ulm,,1,,,,
+Olympia,Olympiastützpunkt Stuttgart,,1,,,,
+Bundesstützpunkt,Bundesstützpunkt Stuttgart,,1,,,,
+Asterix,Asterix Kieldrecht,,1,,,,
+Il,Il Bisonte Firenze,,1,,,,
+Calcit,Calcit Ljubljana,,1,,,,
+Rote,Rote Raben Vilsbiburg,,1,,,,
+Csmt,CSM Târgoviște,,1,,,,
+Grot,Grot Budowlani Łódź,,1,,,,
+Bksprofi,BKS Profi Credit Bielsko-Biała,,1,,,,
+Kspalac,KS Pałac Bydgoszcz U20,,1,,,,
+Sms,SMS PZPS Szczyrk,,1,,,,
+Kurobe,Kurobe AquaFairies,,1,,,,
+Bey,Beylikdüzü,,1,,,,
+Imoco,Imoco Volley Conegliano,,1,,,,
+Penn,Penn State Univ.,,1,,,,
+Banca,Banca Valsabbina Millenium Brescia,,1,,,,
+Dresdener,Dresdner SC 1898,,1,,,,
+Bosca,Bosca San Bernardo Cuneo,,1,,,,
+Saugella,Saugella Team Monza,,1,,,,
+Delta,Delta Informatica Trentino,,1,,,,
+Geo,Geovillage Hermaea Olbia,,1,,,,
+Cvbarc,CV Barcelona,,1,,,,
+Vfbsuhl,VfB Suhl Lotto Thüringen,,1,,,,
+Vcsneek,VC Sneek,,1,,,,
+Aalianzmtv,Allianz MTV Stuttgart II,,1,,,,
+University,University of Alabama,,1,,,,
+Beziers,Beziers Angels,,1,,,,
+LBM,Luka Bar (MNE),,1,,,,
+FTM,FV Tübinger Modell,,1,,,,
+BMS,BSP MTV Stuttgart,,1,,,,
+VB,VCO Berlin,,1,,,,
+ONKB,OK Nova KBM Branik,,1,,,,
+LV,LP Viesti,,1,,,,
+LK,LP Kangasala,,1,,,,
+HL,Hämeenlinnan Lentopallokerho,,1,,,,
+K,Kimmo,,1,,,,
+SP,Someron Pallo,,1,,,,
+EJMS,Eigene Jugend MTV Stuttgart,,1,,,,
+AMS,Allianz MTV Stuttgart,,1,,,1,
+DE,Deutschland,,1,,,2,
+FL,Finnland,,1,,,3,
+USA,USA,,1,,,4,
+NL,Niederlande,,1,,,5,
+SPA,Spanien,,1,,,6,
+PO,Polen,,1,,,7,
+BE,Belgien,,1,,,8,
+BU,Bulgarien,,1,,,,
