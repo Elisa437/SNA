@@ -1,0 +1,17 @@
+CODEBUCH,,
+,,
+,,
+Wert,Beschreibung,Skala und Bedeutung
+edgelist,,
+from,Definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. ,Spielerinnen
+to ,Definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. ,Vereine
+nodelist,,
+id,"Eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird. ",
+name,Voller Name oder Beziehung des Knotens,
+sex,Dichotome Ausprägung,"1 = weiblich, 2 = männich, 3 = divers"
+type,Unterscheidung zwischen Person und Organisation,"0 = Person, 1 = Organisation wie Land oder Verein"
+birth,Geburtsjahr,
+age,Alter der Person,"1= 20 und drunter, 2 = 21-23, 3 = 24-26, 4 = 27-30, 5 = über 30"
+position,Spielposition auf dem Feld,
+country,Heimatland,
+power,definiert als Macht des Akteurs ,"1 = sehr gering, 2 = gering, 3 = mittel, 4 = hoch, 5 = sehr hoch"
